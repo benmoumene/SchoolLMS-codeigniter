@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a1f2c25-cc19-466d-9cf6-39094601eafd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/license.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/license.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/admin/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/admin/Admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/libraries/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/libraries/Customlib.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Customlib.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/admin/updater/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/admin/updater/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/layout/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/layout/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/layout/routine_update.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/layout/routine_update.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/views/layout/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/layout/sidebar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/layout/student/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/layout/student/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +38,7 @@
       <workItem from="1602135041519" duration="1996000" />
       <workItem from="1602232566948" duration="53000" />
       <workItem from="1602321858191" duration="1237000" />
-      <workItem from="1602399461792" duration="5722000" />
+      <workItem from="1602399461792" duration="5826000" />
     </task>
     <servers />
   </component>
