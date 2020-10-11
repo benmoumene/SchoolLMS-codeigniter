@@ -548,10 +548,7 @@ class Admin extends Admin_Controller
                 ->set_status_header(200)
                 ->set_output(json_encode($array));
         } else {
-            echo"<pre>";
-            print_r($this->auth->app_update());
-            echo"<pre>";
-            var_dump($this->auth->app_update());
+
             //==================
             $response = $this->auth->app_update();
         }

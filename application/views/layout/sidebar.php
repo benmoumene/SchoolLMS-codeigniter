@@ -1258,7 +1258,11 @@
                             <li class="<?php echo set_Submenu('System Settings/systemfield'); ?>"><a href="<?php echo base_url(); ?>admin/systemfield"><i class="fa fa-angle-double-right"></i> <?php echo $this->lang->line('system') . " " . $this->lang->line('fields'); ?></a></li>
                             <?php
                         }?>
-                        <li class="<?php echo set_Submenu('System Settings/updater'); ?>"><a href="<?php echo base_url(); ?>admin/updater"><i class="fa fa-angle-double-right"></i> <?php echo $this->lang->line('system_update')?></a></li>  
+                        <!--
+                            <li class="<?php echo set_Submenu('System Settings/updater'); ?>">
+                                <a href="<?php echo base_url(); ?>admin/updater"><i class="fa fa-angle-double-right"></i> <?php echo $this->lang->line('system_update')?></a>
+                            </li>
+                        -->
                         </ul>
                     </li>
                     <?php

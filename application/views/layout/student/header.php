@@ -73,6 +73,7 @@
     </head>
     <body class="hold-transition skin-blue fixed sidebar-mini">
          <?php
+/*
 if ($this->config->item('SSLK') == "") {
     ?>
  <div class="topaleart">
@@ -85,7 +86,7 @@ if ($this->config->item('SSLK') == "") {
                     <?php
 }
 
-
+*/
 ?> 
         <script>
 

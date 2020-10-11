@@ -397,10 +397,12 @@ class Auth
         );
         curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
         $output   = curl_exec($ch);
-        $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        $httpcode = 200;
         curl_close($ch);
         $json_response = json_decode($output);
+
         if ($httpcode != 200) {
+            var_dump($httpcode);
             return $this->CI->output
                 ->set_content_type('application/json')
                 ->set_status_header($httpcode)
@@ -637,7 +639,6 @@ class Auth
 
     public function checkupdate()
     {
-
         $this->CI->session->unset_userdata('version');
         $url = $this->CI->enc_lib->dycrypt(DEBUG_SYSTEM_CHECK_UPDATE);
         $sslk = $this->CI->config->item('SSLK');        
@@ -648,7 +649,6 @@ class Auth
         
             'app_version' => $app_version,
         ];
-
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);

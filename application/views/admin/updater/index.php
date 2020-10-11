@@ -50,54 +50,10 @@
                             }
                            echo "<div class='clearfix'></div>";
  
-                        if ($this->session->flashdata('message')) {
-                            ?>
-                            <div class="col-md-12">
-                                <div class="text-success">
-                                    <ul class="update-list">
-                                        <?php
-                                        foreach ($this->session->flashdata('message') as $message_key => $message_value) {
-                                            ?>
-                                            <li><h5><i class="fa fa-info-circle"></i> <?php echo $message_value; ?></h5></li>
-                                            <?php
-                                        }
-                                        ?>
-                                    </ul>
-                                </div>
-                              </div>  
-                            <?php
-                        }
 
-                        if ($this->session->flashdata('error')) {
-                            ?>
-                            <div class="col-md-12">
-                                <div class="text-danger">
-                                    <ul class="update-list">
-                                        <?php
-                                        foreach ($this->session->flashdata('error') as $error_key => $error_value) {
-                                            ?>
-                                            <li><h5><i class="fa fa-info-circle"></i> <?php echo $error_value; ?></h5>
-                                            <?php
-                                        }
-                                        ?>
-                                    </ul>
-                                </div>
-                              </div>  
-                            <?php
-                        }
-                        
 
-                            if (isset($version) && $version != "") {
-                                ?>
-                                <div class="col-md-12 mb10 mt10 upgradeup">
-                                    <!-- <h4><i class="fa fa-info-circle"></i> New version is available for update.</h4> -->
-                                    <form method="POST" action="<?php echo site_url('admin/updater'); ?>" id="form-update">
-                                        <button type="button" class="btn cfees btn-submit" name="update_btn" value="update"> <?php echo $this->lang->line('update_now')?></button>
-                                    </form>
-                                </div><!--./col-md-12-->
 
-                                <?php
-                            }
+
                             ?>
 
                         </div><!--./row-->
@@ -117,7 +73,7 @@
 </div>
 
 
-
+<!--
 <div class="modal fade" id="confirm-update" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -128,7 +84,7 @@
             <div class="modal-body">
                 <p><?php echo $this->lang->line('updater_instruction')?></p>
                 <p><?php echo $this->lang->line('do_you_want_to_proceed')?></p>
-                <!-- <button type="button" class="btn btn-primary" data-dismiss="modal">No --r</button> -->
+                <!- - <button type="button" class="btn btn-primary" data-dismiss="modal">No --r</button> - ->
                 
             </div>
             <div class="modal-footer"><button type="button" class="btn cfees pull-right confirm-yes"><?php echo $this->lang->line('yes'); ?> </button></div>
@@ -150,3 +106,4 @@
     });
 
 </script>
+-->
