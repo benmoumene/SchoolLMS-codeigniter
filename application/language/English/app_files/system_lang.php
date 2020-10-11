@@ -1441,7 +1441,7 @@ $lang['created_by'] = "Created By";
 $lang['created_for'] = "Created For";
 $lang['self'] = "Self";
 $lang['global'] = "Global";
-$lang['awaited'] = "Awaited";
+$lang['awaited'] = "Awaited"; 
 $lang['cancelled'] = "Cancelled";
 $lang['finished'] = "Finished";
 $lang['meeting'] = "Meeting";
@@ -1460,4 +1460,12 @@ $lang['host'] = "Host";
 $lang['online_classes'] = "Live Classes";
 $lang['online_meeting'] = "Live Meetings";
 
-?>
+#Zoom Live Class 2.0
+
+$lang['now'] = "Now";
+$lang['waiting'] = "Waiting";
+$lang['started'] = "Started";
+$lang['use_zoom_client_app'] = "Use Zoom Client App";
+$lang['teacher_api_credential'] = "Teacher Api Credential ";
+$lang['meeting_not_started'] = "Meeting Not Started";
+ ?>

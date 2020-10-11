@@ -1443,4 +1443,14 @@ $lang['setting'] = "الإعداد" ;
 $lang['host'] = "المضيف" ;
 $lang['online_classes'] = "دروس حية" ;
 $lang['online_meeting'] = "لايف اجتماعات" ;
-?>
+
+#Zoom Live Class 2.0
+
+
+$lang['now'] = "الآن" ;
+$lang['waiting'] = "انتظار" ;
+$lang['started'] = "بدأت" ;
+$lang['use_zoom_client_app'] = "استخدام التكبير التطبيق العميل" ;
+$lang['teacher_api_credential'] = "المعلم Api الاعتماد" ;
+$lang['meeting_not_started'] = "الاجتماع لم يبدأ بعد" ;
+ ?>

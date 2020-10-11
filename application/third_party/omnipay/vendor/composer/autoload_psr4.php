@@ -37,4 +37,5 @@ return array(
     'Omnipay\\CardSave\\' => array($vendorDir . '/omnipay/cardsave/src'),
     'Omnipay\\Buckaroo\\' => array($vendorDir . '/omnipay/buckaroo/src'),
     'Omnipay\\AuthorizeNet\\' => array($vendorDir . '/omnipay/authorizenet/src'),
+    'Firebase\\JWT\\' => array($vendorDir . '/firebase/php-jwt/src'),
 );

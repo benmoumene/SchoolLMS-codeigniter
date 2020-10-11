@@ -50,6 +50,10 @@ class ComposerStaticInitb948a81edec228350ede434eedaf69ad {
             'Omnipay\\Buckaroo\\' => 17,
             'Omnipay\\AuthorizeNet\\' => 21,
         ),
+        'F' =>
+        array(
+            'Firebase\\JWT\\' => 13,
+        ),
     );
     public static $prefixDirsPsr4 = array(
         'Symfony\\Polyfill\\Php55\\' =>
@@ -76,8 +80,8 @@ class ComposerStaticInitb948a81edec228350ede434eedaf69ad {
         array(
             0 => __DIR__ . '/..' . '/omnipay/worldpay/src',
         ),
-          'Omnipay\\Paymongo\\' => 
-        array (
+        'Omnipay\\Paymongo\\' =>
+        array(
             0 => __DIR__ . '/..' . '/omarusman/omnipay-paymongo/src',
         ),
         'Omnipay\\TwoCheckout\\' =>
@@ -175,6 +179,10 @@ class ComposerStaticInitb948a81edec228350ede434eedaf69ad {
         'Omnipay\\AuthorizeNet\\' =>
         array(
             0 => __DIR__ . '/..' . '/omnipay/authorizenet/src',
+        ),
+        'Firebase\\JWT\\' =>
+        array(
+            0 => __DIR__ . '/..' . '/firebase/php-jwt/src',
         ),
     );
     public static $prefixesPsr0 = array(

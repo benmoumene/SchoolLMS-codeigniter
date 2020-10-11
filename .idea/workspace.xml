@@ -2,7 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a1f2c25-cc19-466d-9cf6-39094601eafd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/application/views/layout/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/layout/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Afrikaans/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Afrikaans/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Albanian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Albanian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Amharic/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Amharic/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Arabic/app_files/system_lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/language/Arabic/app_files/system_lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Azerbaijan/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Azerbaijan/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Basque/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Basque/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Bengali/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Bengali/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Bosnian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Bosnian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Catalan/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Catalan/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Cebuano/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Cebuano/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Chinese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Chinese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Czech/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Czech/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Danish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Danish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Dutch/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Dutch/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/English/app_files/system_lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/language/English/app_files/system_lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Esperanto/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Esperanto/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Estonian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Estonian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Finnish/app_files/system_lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/language/Finnish/app_files/system_lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/French/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/French/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Galician/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Galician/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Georgian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Georgian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/German/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/German/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Greek/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Greek/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Gujarati/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Gujarati/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Haitian (Creole)/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Haitian (Creole)/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hebrew/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hebrew/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hindi/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hindi/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hungarian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Hungarian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Icelandic/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Icelandic/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Indonesian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Indonesian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Irish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Irish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Italian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Italian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Japanese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Japanese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Javanese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Javanese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Kannada/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Kannada/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Korean/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Korean/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Latin/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Latin/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Latvian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Latvian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Lithuanian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Lithuanian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Macedonian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Macedonian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malagasy/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malagasy/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malay/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malay/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malayalam/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Malayalam/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Maltese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Maltese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Maori/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Maori/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Marathi/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Marathi/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Mongolian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Mongolian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Nepali/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Nepali/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Norwegian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Norwegian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Persian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Persian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Polish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Polish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Portuguese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Portuguese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Punjabi/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Punjabi/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Romanian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Romanian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Russian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Russian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Scottish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Scottish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Sinhala/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Sinhala/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Slovakian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Slovakian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Slovenian/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Slovenian/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Spanish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Spanish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Sundanese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Sundanese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Swahili/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Swahili/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Swedish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Swedish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Tagalog/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Tagalog/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Tamil/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Tamil/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Telugu/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Telugu/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Thai/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Thai/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Turkish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Turkish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Urdu/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Urdu/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Uzbek/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Uzbek/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Vietnamese/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Vietnamese/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Welsh/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Welsh/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Xhosa/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Xhosa/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Yiddish/app_files/system_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/Yiddish/form_validation_lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/libraries/Mailgateway.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Mailgateway.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/libraries/Mailsmsconf.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Mailsmsconf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/libraries/Smsgateway.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/libraries/Smsgateway.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/Setting_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Setting_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/Subjecttimetable_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Subjecttimetable_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/third_party/omnipay/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +192,8 @@
       <workItem from="1602135041519" duration="1996000" />
       <workItem from="1602232566948" duration="53000" />
       <workItem from="1602321858191" duration="1237000" />
-      <workItem from="1602399461792" duration="5826000" />
+      <workItem from="1602399461792" duration="6727000" />
+      <workItem from="1602431606337" duration="390000" />
     </task>
     <servers />
   </component>
